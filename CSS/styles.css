@@ -1,0 +1,54 @@
+/******************TAG selector***************/
+
+
+body {background-color: lemonchiffon;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0;
+  width: 20%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {color: #90ee90; font-style: oblique;}
+
+h3 {color: #20b2aa;
+}
+
+
+  img:hover {background-color: gold;}
+
+
+/**************************Class selector****************/
+
+.bacon {background-color: green;
+}
+
+.apple {background-color: red;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+
+/*********************ID selectors*********************/
+
+
+
+
+
+#heading {color: red;
+
+}
+
+#first {color: blue;
+}
+
+#second {color: green;
+}
+
+#third {color: pink;
+}
